@@ -27,7 +27,7 @@ Authorizing Decentralized Recognition In Core Chain Ecosystem
 </p>
 
 <p align="center">
-    <a href="https://maxiprotocol.com/" target="blank">View Website</a>
+    <a href="[https://www.pepetrump.co)/" target="blank">View Website</a>
     ·
     <a href="https://github.com/maxiprotocol/maxi-protocol/issues/new/choose">Report Bug</a>
     ·
