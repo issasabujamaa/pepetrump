@@ -1,7 +1,7 @@
 <p align="center">
 <img src="[https://i.imgur.com/qca1eIV.jpg)" alt="PEPE TRUMP" width="100" border="0">
 <h1 align="center">
-Maxi Protocol
+PEPE TRUMP
 </h1>
 </p>
 <p align="center">
