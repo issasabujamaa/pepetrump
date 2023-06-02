@@ -66,8 +66,8 @@ Maxi Protocol goal is to develop a decentralized finance system that allows toke
 ## 🙏 Support
 
 <p align="left">
-<a href="https://twitter.com/maxi_protocol">
-<img src="https://img.shields.io/twitter/follow/maxi_protocol?style=social" alt="maxi_protocol"/>
+<a href="[https://twitter.com/maxi_protocol](https://twitter.com/PepeTrump0)">
+<img src="[https://img.shields.io/twitter/follow/maxi_protocol?style=social](https://pbs.twimg.com/profile_images/1660022617670049795/SiF47SgL_400x400.jpg)" alt="maxi_protocol"/>
 </a>
 </p>
 
